@@ -8,7 +8,7 @@
 
 <br>
 
->"Les sites et les cathédrales, c’est un peu la même chose - d’abord on les construit, ensuite on prie."*
+*"Les sites et les cathédrales, c’est un peu la même chose - d’abord on les construit, ensuite on prie."*
 
 <br>
 
@@ -69,4 +69,4 @@ En résumé, j'étais vraiment con quand j'étais enfant.
 
 <br>
 
-[<< précédent](https://github.com/CV136/challenge-markdown/ "Céline Verreydt")|| [MISERQUE](https://github.com/Corentinmiserque/challenge-markdown/ "Corentin Miserque")||[suivant >>](https://github.com/DCoppee/Challenge-Markdown/ "Dominique Coppée")
+[<< précédent  ](https://github.com/CV136/challenge-markdown/ "Céline Verreydt")|| [MISERQUE ](https://github.com/Corentinmiserque/challenge-markdown/ "Corentin Miserque")||[   suivant >>](https://github.com/DCoppee/Challenge-Markdown/ "Dominique Coppée")
