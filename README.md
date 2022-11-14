@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://media-exp1.licdn.com/dms/image/D4E03AQG9xza19BdNLg/profile-displayphoto-shrink_400_400/0/1666108226560?e=1674086400&v=beta&t=SAx__eU-wha_8tFYuFjvakXJk402q-5VuZ7Gn-SwOxU" alt="" width="250px"/>
+![](https://media-exp1.licdn.com/dms/image/D4E03AQG9xza19BdNLg/profile-displayphoto-shrink_400_400/0/1666108226560?e=1674086400&v=beta&t=SAx__eU-wha_8tFYuFjvakXJk402q-5VuZ7Gn-SwOxU)
 
 <br>
 
